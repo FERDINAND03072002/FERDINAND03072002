@@ -1,0 +1,157 @@
+.container {
+	width				: 45.3%;
+	margin				: auto;
+	background-color	: white;
+	margin-left			: 38.8%;
+	margin-top			: 1%;
+	position			: absolute;
+}
+
+.container p {
+	text-indent			: 45px;
+	font-size			: 14.5px;
+	text-align			: justify;
+	margin-left			: 16px;
+	margin-right		: 16px;
+	margin-top			: 2px;
+	margin-bottom		: 20px;
+}
+
+.gambarcover img {
+	width				: 70%;
+	height				: 20%;
+	margin-left			: 15%;
+}
+
+.logo img {
+	width				: 18%;
+	height				: 19%;
+	left				: 213px;
+	position			: absolute;
+	top					: 11px;
+}
+
+.nav {
+	width				: 70%;
+	height				: 3%;
+	margin-left			: 15%;
+	background-color	: black;
+	list-style			: none;
+}
+
+li {
+	float				: left;
+	color				: white;
+}
+
+li a {
+	color				: white;
+	list-style			: none;
+	text-decoration		: none;
+	padding				: 70px 70px;
+}
+
+.active {
+	background-color	: #FFoB7B;
+}
+
+h1 {
+	margin-top			: 4px;
+	margin-left			: 17px;
+	font-size			: 30px;
+	margin-bottom		: 5px;
+}
+
+h2 {
+	margin-top			: 1px;
+	margin-left			: 17px;
+	font-size			: 20px;
+	margin-bottom		: 0px;
+}
+
+h3 {
+	margin-top			: 1px;
+	margin-left			: 17px;
+	font-size			: 20px;
+	margin-bottom		: 0px;
+}
+
+h4 {
+	margin-top			: 1px;
+	margin-left			: 17px;
+	font-size			: 20px;
+	margin-bottom		: 0px;
+}
+
+.gambaripad3-2 img {
+	width				: 20%;
+	margin-left			: 2px;
+	margin-top			: 0px;
+	margin-bottom		: 0px;
+	margin-right		: 5px;
+	float				: left;
+	
+}
+.gambaripod-touch-4g img {
+	width				: 20%;
+	margin-left			: 2px;
+	margin-top			: 0px;
+	margin-bottom		: 0px;
+	margin-right		: 5px;
+	float				: left;
+}
+
+.gambariiphone-5-release-date img {
+	width				: 20%;
+	margin-left			: 2px;
+	margin-top			: 0px;
+	margin-bottom		: 0px;
+	margin-right		: 5px;
+	float				: left;
+}
+
+.profile {
+	list-style			: none;
+	text-align			: center;
+	color				: white;
+	width				: 23%;
+	height				: 3%;
+	background-color	: black;
+	margin-left			: 202px;
+	position			: absolute;
+	bottom				: 71%;
+	text-align			: center;
+}
+
+.gambarprofile img {
+	position			: absolute;
+	left				: 210px;
+	top					: 186px;
+	width				: 150px;
+	border				: none;
+}
+
+.gambarprofile li {
+	text-align			: center;
+}
+
+.datadiri {
+	width				: 11.8%;
+	margin				: auto;
+	background-color	: white;
+	margin-left			: 26.1%;
+	top					: 29%;
+	position			: absolute;
+	height				: 30.1%;
+	font-size			: 11.7px;
+}
+
+.gambarnoproblemmac img {
+	width				: 23%;
+	margin-top			: 16%;
+}
+
+.gambarthumb img {
+	width				: 23%;
+	margin-top			: 31%;
+}
